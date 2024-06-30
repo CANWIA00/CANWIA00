@@ -3,7 +3,6 @@
 
 <p align="left">I am a simple backend developer.</p>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/omercanarslan/" target="_blank">
