@@ -1,5 +1,5 @@
 <h1 align="center">My name is Can Arslan</h1>
-
+<h2 align="center"> I am a simple backend developer.</h2>
 ###
 
 <p align="left"></p>
