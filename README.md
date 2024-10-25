@@ -1,7 +1,7 @@
 <h1 align="center">My name is Can Arslan</h1>
 
 
-<p align="center">(I am a simple backend developer.)</p>
+<p align="center">(I am a simple software developer.)</p>
 
 
 <div align="center">
